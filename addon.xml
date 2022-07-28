@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.openwizard" name="[COLOR limegreen]Open[/COLOR]Wizard" version="1.4.9" provider-name="drinfernoo">
+<addon id="plugin.program.bitmatrix" name="[COLOR limegreen]Open[/COLOR]Wizard" version="1.4.9" provider-name="tveecf">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -19,7 +19,7 @@
         <description lang="en">[COLOR limegreen]Open[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/drinfernoo/plugin.program.openwizard/</source>
+        <source>https://www.github.com/tveecf/plugin.program.bitmatrix/</source>
         <news>
 1.4.9
  - Fix Error Related to Log
