@@ -1,13 +1,36 @@
-# plugin.program.openwizard
-OpenWizard
+<center>
+<img src="https://github.com/tveecf/tveecf.github.io/raw/main/img/index/logo1.png" alt="drawing" width="50%"/> 
 
-# THIS PROJECT IS NO LONGER IN DEVELOPMENT.
+# plugin.program.bitmatrix
+All in One Matrix Wizard 
 
-OpenWizard was created to help the Kodi community out and help get rid of the broken personal wizards that are floating around. As this is a work in progress, a repository is highly recommended, but if you prefer not to, there is a built-in auto-updater.
+BitMatrix wurde erstellt, um der Kodi-Community zu helfen und die kaputten persönlichen Wizards loszuwerden, die herumschwirren.  Da es zu Problemen führen kann, wird ein dringend Repository empfohlen, aber wenn Sie es nicht möchten, gibt es auch einen integrierten Auto-Updater.
+</center>
 
-For more information on how to edit/customize this wizard for your own usage, please read [the wiki](https://github.com/drinfernoo/plugin.program.openwizard/wiki).
+* Backup/ Wiederherstellung bspw. persönlicher Sicherungen
 
-Currently, this version of the wizard supports:
+* Reinigung manuell 
+
+* Reinigung automatisch 
+
++ Advanced Settings Konfigurator
+
++ Entwicklerwerkzeuge 
+
++ APK Installer 
+
+- Addon Installer 
+
+- Fehlerbericht 
+
+- und vielen mehr
+
+
+mehr Informationen:
+[wiki](https://github.com/tveecf/plugin.program.bitmatrix/wiki).
+
+
+
 
 |  Add-on                            | Cache Clearing | Trakt | All-Debrid | Real-Debrid | Premiumize | Trakt API | TMDb | TVDB | OMDb | IMDb | Fanart.tv | Location | Username/Password/Login |
 |------------------------------------|:--------------:|:-----:|:----------:|:-----------:|:----------:|:---------:|:----:|:----:|:----:|:----:|:---------:|:--------:|:-----------------------:|
