@@ -17,19 +17,19 @@ ADDONTITLE = '[COLOR cyan][B]Bit[[/B]/COLOR]Matrix'
 BUILDERNAME = 'BitMatrix'
 EXCLUDES = [ADDON_ID, 'repository.bitorbit']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE = 'http://'
+APKFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/apks.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE = 'Video Anleitungen'
-YOUTUBEFILE = 'http://'
+YOUTUBEFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'https://tveecf.github.io/setup/txt/addons.txt'
+ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/addons.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE = 'http://'
+ADVANCEDFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/advanced.txt'
 #########################################################
 
 #########################################################
