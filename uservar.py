@@ -27,7 +27,7 @@ APKFILE = 'http://'
 YOUTUBETITLE = 'Video Anleitungen'
 YOUTUBEFILE = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'http://'
+ADDONFILE = 'https://tveecf.github.io/setup/txt/addons.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'http://'
 #########################################################
