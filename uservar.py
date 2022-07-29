@@ -114,11 +114,11 @@ NOTIFICATION = 'http://'
 HEADERTYPE = 'Image'
 # Font size of header
 FONTHEADER = 'Font14'
-HEADERMESSAGE = '[COLOR cyan][B]Bit[[/B]/COLOR]Matrix'
+HEADERMESSAGE = '[COLOR cyan][B]Bit[/B]/COLOR][COLOR azure]Matrix[/COLOR]'
 # url to image if using Image 424x180
-HEADERIMAGE = 'http://'
+HEADERIMAGE = 'https://tveecf.github.io/img/kovibanner.png'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
-BACKGROUND = 'http://'
+BACKGROUND = 'https://tveecf.github.io/img/fanart.jpg'
 #########################################################
