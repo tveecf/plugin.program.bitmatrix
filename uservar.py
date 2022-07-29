@@ -80,7 +80,7 @@ HIDECONTACT = 'No'
 CONTACT = 'Wir weisen ausdrücklich darauf hin, dass wir lediglich für das Design und die Entwicklung einzelner Plugins zuständig sind und keinerlei Haftung auf den Inhalt von Drittanbietern übernehmen können. Wir sind stets bemüht Fehler & Bugs zu entfernen.\n\nSollten Sie auf Fehler stoßen, so bitten wir Sie uns dies in kurzer Form mitzuteilen. Wir danken euch!\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix/\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix\n\nTelegram: https://t.me/bitorbitcf\n\nWebsite: https://bittv.ga'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
-CONTACTFANART = 'https://tveecf.github.io/img/fanart.jpg'
+CONTACTFANART = os.path.join(ART, 'ContentPanel.png')
 #########################################################
 
 #########################################################
@@ -105,7 +105,7 @@ REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/rep
 
 #########################################################
 #        Notification Window                            #
-#########################################################
+#######################################0##################
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
@@ -120,5 +120,5 @@ HEADERIMAGE = 'https://tveecf.github.io/img/kovibanner.png'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
-BACKGROUND = 'https://tveecf.github.io/img/fanart.jpg'
+BACKGROUND = os.path.join(ART, 'ContentPanel.png')
 #########################################################
