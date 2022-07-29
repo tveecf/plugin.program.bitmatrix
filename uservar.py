@@ -13,7 +13,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR cyan][B]Bit[[/B]/COLOR]Matrix'
+ADDONTITLE = '[COLOR cyan][B]Bit[/B]/COLOR][COLOR azure]Matrix[/COLOR]'
 BUILDERNAME = 'BitMatrix'
 EXCLUDES = [ADDON_ID, 'repository.bitorbit']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
@@ -56,14 +56,14 @@ ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
 HIDESPACERS = 'No'
 # Character used in separator
-SPACER = '||'
+SPACER = '--'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
 COLOR1 = 'cyan'
-COLOR2 = 'white'
+COLOR2 = 'azure'
 # Primary menu items   / {0} is the menu item and is required
-THEME1 = u'[COLOR {color1}][I][COLOR {color1}][B]Open[/B][/COLOR][COLOR {color2}][COLOR {color1}][/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
+THEME1 = u'[COLOR {color1}][I][COLOR {color1}][B][/B][/COLOR][COLOR {color2}][COLOR {color1}][/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
 # Build Names          / {0} is the menu item and is required
 THEME2 = u'[COLOR {color1}]{{}}[/COLOR]'.format(color1=COLOR1)
 # Alternate items      / {0} is the menu item and is required
@@ -80,7 +80,7 @@ HIDECONTACT = 'No'
 CONTACT = 'Wir weisen ausdrücklich darauf hin, dass wir lediglich für das Design und die Entwicklung einzelner Plugins zuständig sind und keinerlei Haftung auf den Inhalt von Drittanbietern übernehmen können. Wir sind stets bemüht Fehler & Bugs zu entfernen.\n\nSollten Sie auf Fehler stoßen, so bitten wir Sie uns dies in kurzer Form mitzuteilen. Wir danken euch!\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix/\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix\n\nTelegram: https://t.me/bitorbitcf\n\nWebsite: https://bittv.ga'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
-CONTACTFANART = 'http://'
+CONTACTFANART = 'https://tveecf.github.io/img/fanart.jpg'
 #########################################################
 
 #########################################################
