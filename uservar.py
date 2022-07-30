@@ -54,9 +54,9 @@ ICONLOGIN = os.path.join(ART, 'keeplogin.png')
 ICONCONTACT = os.path.join(ART, 'information.png')
 ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
-HIDESPACERS = 'Yes'
+HIDESPACERS = 'No'
 # Character used in separator
-SPACER = '--'
+SPACER = '___'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
@@ -107,7 +107,7 @@ REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/'
 #        Notification Window                            #
 #######################################0##################
 # Enable Notification screen Yes or No
-ENABLE = 'Yes'
+ENABLE = 'No'
 # Url to notification file
 NOTIFICATION = 'http://'
 # Use either 'Text' or 'Image'
