@@ -13,7 +13,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR cyan][B]Bit[/B]/COLOR][COLOR azure]Matrix[/COLOR]'
+ADDONTITLE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
 BUILDERNAME = 'BitMatrix'
 EXCLUDES = [ADDON_ID, 'repository.bitorbit']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
@@ -56,7 +56,7 @@ ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
 HIDESPACERS = 'Yes'
 # Character used in separator
-SPACER = ''
+SPACER = '___'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
