@@ -13,7 +13,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR cyan][B]Bit[/B]/COLOR][COLOR azure]Matrix[/COLOR]'
+ADDONTITLE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
 BUILDERNAME = 'BitMatrix'
 EXCLUDES = [ADDON_ID, 'repository.bitorbit']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
@@ -114,7 +114,7 @@ NOTIFICATION = 'http://'
 HEADERTYPE = 'Image'
 # Font size of header
 FONTHEADER = 'Font14'
-HEADERMESSAGE = '[COLOR cyan][B]Bit[/B]/COLOR][COLOR azure]Matrix[/COLOR]'
+HEADERMESSAGE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
 # url to image if using Image 424x180
 HEADERIMAGE = 'https://tveecf.github.io/img/kovibanner.png'
 # Font for Notification Window
