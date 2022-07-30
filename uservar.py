@@ -54,9 +54,9 @@ ICONLOGIN = os.path.join(ART, 'keeplogin.png')
 ICONCONTACT = os.path.join(ART, 'information.png')
 ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
-HIDESPACERS = 'No'
+HIDESPACERS = 'Yes'
 # Character used in separator
-SPACER = '--'
+SPACER = ''
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
@@ -100,7 +100,7 @@ REPOID = 'repository.bitorbit'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/tveecf/repo/master/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/repository.bitorbit-1.0.zip'
+REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/'
 #########################################################
 
 #########################################################
