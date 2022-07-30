@@ -27,7 +27,7 @@ APKFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/
 YOUTUBETITLE = 'Video Anleitungen'
 YOUTUBEFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/addons.txt'
+ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/data/addons.json'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/advanced.txt'
 #########################################################
@@ -77,7 +77,7 @@ THEME5 = u'[COLOR {color1}]Aktuelles Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT = 'No'
 # You can add \n to do line breaks
-CONTACT = 'Wir weisen ausdrücklich darauf hin, dass wir lediglich für das Design und die Entwicklung einzelner Plugins zuständig sind und keinerlei Haftung auf den Inhalt von Drittanbietern übernehmen können. Wir sind stets bemüht Fehler & Bugs zu entfernen.\n\nSollten Sie auf Fehler stoßen, so bitten wir Sie uns dies in kurzer Form mitzuteilen. Wir danken euch!\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix/\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix\n\nTelegram: https://t.me/bitorbitcf\n\nWebsite: https://bittv.ga'
+CONTACT = '[COLOR azure]Wir weisen ausdrücklich darauf hin, dass wir lediglich für das Design und die Entwicklung einzelner Plugins zuständig sind und keinerlei Haftung auf den Inhalt von Drittanbietern übernehmen können. Wir sind stets bemüht Fehler & Bugs zu entfernen.[/COLOR]\n\nSollten Sie auf Fehler stoßen, so bitten wir Sie uns dies in kurzer Form mitzuteilen. Wir danken euch!\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix/\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix\n\nTelegram: https://t.me/bitorbitcf\n\nWebsite: https://bittv.ga'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
 CONTACTFANART = os.path.join(ART, 'ContentPanel.png')
@@ -111,7 +111,7 @@ ENABLE = 'No'
 # Url to notification file
 NOTIFICATION = 'http://'
 # Use either 'Text' or 'Image'
-HEADERTYPE = 'Image'
+HEADERTYPE = 'Text'
 # Font size of header
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
