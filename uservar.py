@@ -27,7 +27,7 @@ APKFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/
 YOUTUBETITLE = 'Video Anleitungen'
 YOUTUBEFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/addons.txt'
+ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/data/addons.json'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'https://kodi-unlimited-support.de/wizard/data/as.json'
 #########################################################
