@@ -109,9 +109,9 @@ REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/'
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/notify.txt'
 # Use either 'Text' or 'Image'
-HEADERTYPE = 'Text'
+HEADERTYPE = 'Image'
 # Font size of header
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
