@@ -27,7 +27,7 @@ APKFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/
 YOUTUBETITLE = 'Video Anleitungen'
 YOUTUBEFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/data/addons.json'
+ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/addons.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'https://kodi-unlimited-support.de/wizard/data/as.json'
 #########################################################
@@ -54,7 +54,7 @@ ICONLOGIN = os.path.join(ART, 'keeplogin.png')
 ICONCONTACT = os.path.join(ART, 'information.png')
 ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
-HIDESPACERS = 'No'
+HIDESPACERS = 'Yes'
 # Character used in separator
 SPACER = '___'
 
