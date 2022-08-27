@@ -77,10 +77,10 @@ THEME5 = u'[COLOR {color1}]Aktuelles Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT = 'No'
 # You can add \n to do line breaks
-CONTACT = '[COLOR azure]Wir weisen ausdrücklich darauf hin, dass wir lediglich für das Design und die Entwicklung einzelner Plugins zuständig sind und keinerlei Haftung auf den Inhalt von Drittanbietern übernehmen können. Wir sind stets bemüht Fehler & Bugs zu entfernen.[/COLOR]\n\nSollten Sie auf Fehler stoßen, so bitten wir Sie uns dies in kurzer Form mitzuteilen. Wir danken euch!\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix/\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix\n\nTelegram: https://t.me/bitorbitcf\n\nWebsite: https://bittv.ga'
+CONTACT = '[COLOR azure]Wir weisen ausdrücklich darauf hin, dass wir lediglich für das Design und die Entwicklung einzelner Plugins zuständig sind und keinerlei Haftung auf den Inhalt von Drittanbietern übernehmen können. Wir sind stets bemüht Fehler & Bugs zu entfernen.[/COLOR]\n\nSollten Sie Fehler bemerken, so teilen Sie dies in kurzer Form mit. Wir danken  für jegliche Unterstützung!\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix/\n\nGitHub: http://www.github.com/tveecf/plugin.program.bitmatrix\n\nTelegram: https://t.me/bitorbitcf\n\nWebsite: https://bittv.ga'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
-CONTACTFANART = os.path.join(ART, 'ContentPanel.png')
+CONTACTFANART = os.path.join(ART, 'contentbox.png')
 #########################################################
 
 #########################################################
@@ -120,5 +120,5 @@ HEADERIMAGE = 'https://tveecf.github.io/img/koviicon.png'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
-BACKGROUND = os.path.join(ART, 'ContentPanel.png')
+BACKGROUND = os.path.join(ART, 'contentbox.png')
 #########################################################
