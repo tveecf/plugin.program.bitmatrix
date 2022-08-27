@@ -107,7 +107,7 @@ REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/'
 #        Notification Window                            #
 #######################################0##################
 # Enable Notification screen Yes or No
-ENABLE = 'No'
+ENABLE = 'Yes'
 # Url to notification file
 NOTIFICATION = 'http://'
 # Use either 'Text' or 'Image'
@@ -116,7 +116,7 @@ HEADERTYPE = 'Text'
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
 # url to image if using Image 424x180
-HEADERIMAGE = 'https://tveecf.github.io/img/kovibanner.png'
+HEADERIMAGE = 'https://tveecf.github.io/img/koviicon.png'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
