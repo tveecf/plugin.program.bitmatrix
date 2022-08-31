@@ -100,7 +100,7 @@ REPOID = 'repository.bitorbit'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/tveecf/repo/master/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/tveecf/repo/blob/master/repository.bitorbit/'
+REPOZIPURL = 'https://github.com/tveecf/repo/'
 #########################################################
 
 #########################################################
