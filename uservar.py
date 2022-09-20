@@ -27,9 +27,9 @@ APKFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/
 YOUTUBETITLE = 'Video Anleitungen'
 YOUTUBEFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/addons.txt'
+ADDONFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/data/addons.json'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE = 'https://kodi-unlimited-support.de/wizard/data/as.json'
+ADVANCEDFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/data/advanced_settings.json'
 #########################################################
 
 #########################################################
@@ -100,7 +100,7 @@ REPOID = 'repository.bitorbit'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/tveecf/repo/master/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/tveecf/repo/'
+REPOZIPURL = 'https://raw.githubusercontent.com/tveecf/repo/master/'
 #########################################################
 
 #########################################################
@@ -111,7 +111,7 @@ ENABLE = 'Yes'
 # Url to notification file
 NOTIFICATION = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/notify.txt'
 # Use either 'Text' or 'Image'
-HEADERTYPE = 'Image'
+HEADERTYPE = 'Text'
 # Font size of header
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]Bit[/B][/COLOR][COLOR azure]Matrix[/COLOR]'
